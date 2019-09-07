@@ -1,0 +1,22 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "testingexpress",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedericoRodriguez/express-app.git"
+  },
+  "author": "FedericoRodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FedericoRodriguez/express-app/issues"
+  },
+  "homepage": "https://github.com/FedericoRodriguez/express-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
